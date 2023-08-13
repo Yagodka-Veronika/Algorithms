@@ -1,5 +1,5 @@
 package HW4;
-
+//  Домашку копировала с интернета
 public class RedBlackTree {
     private static final boolean RED = true;
     private static final boolean BLACK = false;
